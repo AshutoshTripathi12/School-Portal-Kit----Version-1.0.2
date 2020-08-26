@@ -59,7 +59,7 @@
                         <li><a href="#about">About</a></li>
                         <li><a href="#features">Features</a></li>
                         <li><a href="#">FAQs</a></li>
-                        <li><a href="resources/view/login_request.php">Request for Demo Login</a></li>
+                        <li><a href="resources/view/login_request.php">Shubham</a></li>
                         <a class="waves-effect waves-light btn green lighten-5 teal-text" style="font-weight: bold; border-radius: 0;" href="login000/login.php">SPK DEMO</a>
                         <!--<a class="waves-effect waves-light btn orange black-text " style="font-weight: bold;" href="create_account.html">Sign Up</a> -->
                     </ul>
