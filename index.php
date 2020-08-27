@@ -32,7 +32,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>School Portal Kit</title>
+		<title>Tara Sadan School Management Web App</title>
 		<!--Let browsers know website is optimized for mobile-->
 		<meta charset="utf-8"/>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
@@ -59,7 +59,7 @@
                         <li><a href="#about">About</a></li>
                         <li><a href="#features">Features</a></li>
                         <li><a href="#">FAQs</a></li>
-                        <li><a href="resources/view/login_request.php">Shubham</a></li>
+                        <li><a href="resources/view/login_request.php">Request</a></li>
                         <a class="waves-effect waves-light btn green lighten-5 teal-text" style="font-weight: bold; border-radius: 0;" href="login000/login.php">SPK DEMO</a>
                         <!--<a class="waves-effect waves-light btn orange black-text " style="font-weight: bold;" href="create_account.html">Sign Up</a> -->
                     </ul>
@@ -102,8 +102,7 @@
 			            <div class="card-content black-text">
 			              	<span class="card-title"><h5 class="teal-text text-darken-4" style="font-weight: bold; text-align: center;">ABOUT</h5></span>
 			            	<p style="text-align: center;">
-			            	    School Portal Kit is dedicated to providing improved education solution through the use of innovative technology. Our mission is to leverage on ICT to bring educational services to improve learning, enhance proper management and accountability in schools as well as supply of ICT equipment and hands-on practical training to students.
-			          		</p>
+			            	    Tara Sadan School Web App is dedicated to providing improved education solution through the use of innovative technology. We want to have a daily interaction with parents, They can monitor their child's progress through our portal.</p>
 			            </div>
 			          </div>
 			        </div>
@@ -114,7 +113,7 @@
 			    			<div class="white-text">
 			    				<span class="card-title"><h5 style="text-align: center; font-weight: bold; margin-top: 50px;">VISION</h5></span>
 			    				<p style="text-align: center;">
-			    					We aspire to alleviate schools, teachers and school owners from the stress involved in managing their schools. These stress ranging from result computation and errors, students accountabilty and management records, influx of money in the school system, expenses management, staff payment, school fee management, class attendance online management etc. We want the educational system to be more stable by enabling teachers give in their best in making sure that students get the best and quality education they deserve.
+			    					We aspire to alleviate our teachers and parents from the stress involved in managing their schools. These stress ranging from result computation and errors, students accountabilty and management records, expenses management, school fee management, class attendance online management etc. We want our school to be best in stablility by enabling teachers give in their best in making sure that students get the best and quality education they deserve.
 			    				</p>
 			    			</div>
 			    		</div>
