@@ -51,7 +51,7 @@
         <div class="navbar-fixe">
             <nav class="nav-extended">
                 <div class="nav-wrapper teal darken-2">
-                    <a href="index.html" class="brand-logo" style="margin-left: 20px; font-family: Segoe UI; font-weight: bold; letter-spacing: 4px;">SPK</a>
+                    <a href="index.html" class="brand-logo" style="margin-left: 20px; font-family: Segoe UI; font-weight: bold; letter-spacing: 4px;">Tara Sadan Management Web App</a>
 
                     <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="fa fa-chevron-circle-left" style="font-size: 30px;"></i></a>
                     
@@ -60,7 +60,7 @@
                         <li><a href="#features">Features</a></li>
                         <li><a href="#">FAQs</a></li>
                         <li><a href="resources/view/login_request.php">Request</a></li>
-                        <a class="waves-effect waves-light btn green lighten-5 teal-text" style="font-weight: bold; border-radius: 0;" href="login000/login.php">SPK DEMO</a>
+                        <a class="waves-effect waves-light btn green lighten-5 teal-text" style="font-weight: bold; border-radius: 0;" href="login000/login.php">Go To Portal</a>
                         <!--<a class="waves-effect waves-light btn orange black-text " style="font-weight: bold;" href="create_account.html">Sign Up</a> -->
                     </ul>
                     
@@ -68,8 +68,8 @@
                         <li><a class="white-text" href="#about">About</a></li>
                         <li><a class="white-text" href="#features">Features</a></li>
                         <li><a class="white-text" href="#">FAQs</a></li>
-                        <li><a class="white-text" href="resources/view/login_request.php">Request for Demo Login</a></li>
-                         <a class="waves-effect waves-light btn green lighten-5 teal-text" style="font-weight: bold; border-radius: 0;" href="login000/login.php">SPK DEMO</a>
+                        <li><a class="white-text" href="resources/view/login_request.php">Request</a></li>
+                         <a class="waves-effect waves-light btn green lighten-5 teal-text" style="font-weight: bold; border-radius: 0;" href="login000/login.php">Go To School Portal</a>
                     </ul>
                 </div>
             </nav>
