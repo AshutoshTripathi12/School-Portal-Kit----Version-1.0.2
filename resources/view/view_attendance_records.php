@@ -52,7 +52,7 @@
                                 <select class='form-control' name='view_attendance_term'>
                                     <option>First Term</option>
                                     <option>Second Term</option>
-                                    <option>Third Term</option>
+                                    
                                 </select>
                             </div>
                         </div>
