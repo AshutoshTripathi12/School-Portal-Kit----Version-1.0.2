@@ -124,27 +124,7 @@
                                     <input type='email' value='' name='email' placeholder='Email' class='form-control' required>
                                 </td>
                             </tr>
-                            <tr>
-                                <td>Next Of Kin:</td>
-                                <td>
-                                    <input type='text' name='next_of_kin' value = ''placeholder='Next Of Kin' class='form-control' required>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>Relationship With Next Of Kin:</td>
-                                <td>
-                                    <input type='text' name='relationship' value = ''placeholder='Relationship With Next Of Kin' class='form-control' required>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>Next of Kin Phone Number:</td>
-                                <td>
-                                    <div class="input-group">
-                                    <input name="next_of_kin_phone" pattern="[0-9]+" title="Input must be a valid phone number" 
-                                    value = '' required="" class="form-control" placeholder="Phone Number" aria-describedby="basic-addon2" type="phone">
-                                    </div>
-                                </td>
-                            </tr>
+
                         </table>
                         <div class='col-xs-12 col-sm-12 col-md-6'></div>
                         <div class='col-xs-12 col-sm-12 col-md-6'>
