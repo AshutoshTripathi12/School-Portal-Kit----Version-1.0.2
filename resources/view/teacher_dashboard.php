@@ -167,9 +167,7 @@
             <li class='treeview'><a href='#'><i class='fa fa-edit'></i><span>Behavioral Analysis</span><i class='fa fa-angle-right'></i></a>
               <ul class='treeview-menu'>
                 <li><a href='teacher_dashboard.php?students_conducts'><i class='fa fa-circle-o'></i> Allot Behavioural Sheet</a></li>
-                <li><a href='teacher_dashboard.php?export_conduct_sheet'><i class='fa fa-circle-o'></i></a></li>
-                <li><a href='teacher_dashboard.php?upload_conducts'><i class='fa fa-circle-o'></i> Upload Excel Behavioral</a></li>
-                <li><a href='teacher_dashboard.php?view_conducts'><i class='fa fa-circle-o'></i> View Uploaded Behavioral</a></li>
+
               </ul>
             </li>
             <li class='treeview'><a href='#'><i class='fa fa-file-text'></i><span>Subject Management</span><i class='fa fa-angle-right'></i></a>
