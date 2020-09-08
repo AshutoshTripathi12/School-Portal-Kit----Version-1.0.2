@@ -116,7 +116,7 @@
   <body class='sidebar-mini fixed'>
     <div class='wrapper'>
       <!-- Navbar-->
-      <header class='main-header hidden-print'><a class='logo' href='index.html'>School Portal Kit</a>
+      <header class='main-header hidden-print'><a class='logo' href='index.html'>Tara Sadan School</a>
         <nav class='navbar navbar-static-top'>
           <!-- Sidebar toggle button--><a class='sidebar-toggle' href='#' data-toggle='offcanvas'></a>
           <!-- Navbar Right Menu-->
@@ -166,8 +166,8 @@
             <li><a href='teacher_dashboard.php?view_students'><i class='fa fa-eye'></i><span>View Students</span></a></li>
             <li class='treeview'><a href='#'><i class='fa fa-edit'></i><span>Behavioral Analysis</span><i class='fa fa-angle-right'></i></a>
               <ul class='treeview-menu'>
-                <li><a href='teacher_dashboard.php?students_conducts'><i class='fa fa-circle-o'></i> Manually Handled</a></li>
-                <li><a href='teacher_dashboard.php?export_conduct_sheet'><i class='fa fa-circle-o'></i> Export Behavior Excel Sheet</a></li>
+                <li><a href='teacher_dashboard.php?students_conducts'><i class='fa fa-circle-o'></i> Allot Behavioural Sheet</a></li>
+                <li><a href='teacher_dashboard.php?export_conduct_sheet'><i class='fa fa-circle-o'></i></a></li>
                 <li><a href='teacher_dashboard.php?upload_conducts'><i class='fa fa-circle-o'></i> Upload Excel Behavioral</a></li>
                 <li><a href='teacher_dashboard.php?view_conducts'><i class='fa fa-circle-o'></i> View Uploaded Behavioral</a></li>
               </ul>
