@@ -13,7 +13,7 @@
         $next_of_kin_phone = inject_checker($connection, $_POST['next_of_kin_phone']);
         
         //Form Validation
-        if(empty($username) || empty($password) || empty($firstname) || empty($lastname) || empty($position) || empty($sex) || empty($phone) || empty($email) || empty($next_of_kin) || empty($relationship) || empty($next_of_kin_phone)){
+        if(empty($username) || empty($password) || empty($firstname) || empty($lastname) || empty($position) || empty($sex) || empty($phone) || empty($email) ||) {
             $msg = "<p class='text-danger'><b>All fields are required</b></p>";
         }else{
             $query = " SELECT * FROM `principal` WHERE `username` = '{$username}' ";
