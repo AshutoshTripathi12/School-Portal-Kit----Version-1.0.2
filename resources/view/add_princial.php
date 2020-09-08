@@ -28,8 +28,8 @@
                 if(mysqli_num_rows($run_query) > 0){
                     $msg = "<p class='text-danger'><b>Your email already exist</b></p>";
                 }else{
-                    $query = " INSERT INTO `principal`(`username`, `password`, `firstname`, `lastname`, `position`, `sex`, `phone`, `email`, `next_of_kin`, `next_of_kin_relationship`, `next_of_kin_phone`, `date_registered`) 
-                                        VALUES('{$username}', '{$password}', '{$firstname}', '{$lastname}', '{$position}', '{$sex}', '{$phone}', '{$email}', '{$next_of_kin}', '{$relationship}', '{$next_of_kin_phone}', '{$date}') ";
+                    $query = " INSERT INTO `principal`(`username`, `password`, `firstname`, `lastname`, `position`, `sex`, `phone`, `email`, `date_registered`) 
+                                        VALUES('{$username}', '{$password}', '{$firstname}', '{$lastname}', '{$position}', '{$sex}', '{$phone}', '{$email}', '{$date}') ";
                     $run_query = mysqli_query($connection, $query);
 
                     if($run_query == true){
