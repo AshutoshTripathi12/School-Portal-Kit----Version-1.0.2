@@ -123,21 +123,21 @@
               <!--Notification Menu-->
               <li class='dropdown notification-menu'><a class='dropdown-toggle' href='#' data-toggle='dropdown' aria-expanded='false'><?php echo $date; ?> <span id='clockDisplay'></span></a>
                 <ul class='dropdown-menu'>
-                  <li class='not-head'>You have 4 new notifications.</li>
+                  <li class='not-head'>Accounts Section</li>
                   <li><a class='media' href='javascript:;'><span class='media-left media-icon'><span class='fa-stack fa-lg'><i class='fa fa-circle fa-stack-2x text-primary'></i><i class='fa fa-envelope fa-stack-1x fa-inverse'></i></span></span>
-                      <div class='media-body'><span class='block'>Lisa sent you a mail</span><span class='text-muted block'>2min ago</span></div></a></li>
+                      <div class='media-body'><span class='block'>Must Be Handled Carefully</span><span class='text-muted block'></span></div></a></li>
                   <li><a class='media' href='javascript:;'><span class='media-left media-icon'><span class='fa-stack fa-lg'><i class='fa fa-circle fa-stack-2x text-danger'></i><i class='fa fa-hdd-o fa-stack-1x fa-inverse'></i></span></span>
-                      <div class='media-body'><span class='block'>Server Not Working</span><span class='text-muted block'>2min ago</span></div></a></li>
+                      <div class='media-body'><span class='block'>Always Recheck The Data</span><span class='text-muted block'></span></div></a></li>
                   <li><a class='media' href='javascript:;'><span class='media-left media-icon'><span class='fa-stack fa-lg'><i class='fa fa-circle fa-stack-2x text-success'></i><i class='fa fa-money fa-stack-1x fa-inverse'></i></span></span>
-                      <div class='media-body'><span class='block'>Transaction xyz complete</span><span class='text-muted block'>2min ago</span></div></a></li>
-                  <li class='not-footer'><a href='#'>See all notifications.</a></li>
+                      <div class='media-body'><span class='block'>Transactional Data Is Critical</span><span class='text-muted block'></span></div></a></li>
+                  <li class='not-footer'><a href='#'>Please Take A Manual Entry As Well</a></li>
                 </ul>
               </li>
               <!-- User Menu-->
               <li class='dropdown'><a class='dropdown-toggle' href='#' data-toggle='dropdown' role='button' aria-haspopup='true' aria-expanded='false'><i class='fa fa-user fa-lg'></i></a>
                 <ul class='dropdown-menu settings-menu'>
                   <li><a href='accountant_dashboard.php'><i class='fa fa-cog fa-lg'></i> Settings</a></li>
-                  <li><a href='accountant_profile.php'><i class='fa fa-user fa-lg'></i> Profile</a></li>
+                  <li><a href='accountant_dashboard.php'><i class='fa fa-user fa-lg'></i> Profile</a></li>
                   <li><a href='accountant_dashboard.php?logout'><i class='fa fa-sign-out fa-lg'></i> Logout</a></li>
                 </ul>
               </li>
