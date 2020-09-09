@@ -149,7 +149,7 @@
                 <br />
 
                 <div class='input-group'>
-                    <span class='input-group-addon' id='basic-addon2'>LGA:</span>
+                    <span class='input-group-addon' id='basic-addon2'>City:</span>
                     <textarea rows='' name='user_lga' required class='form-control' placeholder='...' aria-describedby='basic-addon2'></textarea>
                 </div>
                 <br/>
