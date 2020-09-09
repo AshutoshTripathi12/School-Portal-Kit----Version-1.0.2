@@ -133,30 +133,18 @@
   <body class='sidebar-mini fixed'>
     <div class='wrapper'>
       <!-- Navbar-->
-      <header class='main-header hidden-print'><a class='logo' href='index.html'>School Portal Kit</a>
+      <header class='main-header hidden-print'><a class='logo' href='index.html'>Tara Sadan ERP</a>
         <nav class='navbar navbar-static-top'>
           <!-- Sidebar toggle button--><a class='sidebar-toggle' href='#' data-toggle='offcanvas'></a>
           <!-- Navbar Right Menu-->
           <div class='navbar-custom-menu'>
             <ul class='top-nav'>
               <!--Notification Menu-->
-              <li class='dropdown notification-menu'><a class='dropdown-toggle' href='#' data-toggle='dropdown' aria-expanded='false'><?php echo $date; ?> <span id='clockDisplay'></span></a>
-                <ul class='dropdown-menu'>
-                  <li class='not-head'>You have 4 new notifications.</li>
-                  <li><a class='media' href='javascript:;'><span class='media-left media-icon'><span class='fa-stack fa-lg'><i class='fa fa-circle fa-stack-2x text-primary'></i><i class='fa fa-envelope fa-stack-1x fa-inverse'></i></span></span>
-                      <div class='media-body'><span class='block'>Lisa sent you a mail</span><span class='text-muted block'>2min ago</span></div></a></li>
-                  <li><a class='media' href='javascript:;'><span class='media-left media-icon'><span class='fa-stack fa-lg'><i class='fa fa-circle fa-stack-2x text-danger'></i><i class='fa fa-hdd-o fa-stack-1x fa-inverse'></i></span></span>
-                      <div class='media-body'><span class='block'>Server Not Working</span><span class='text-muted block'>2min ago</span></div></a></li>
-                  <li><a class='media' href='javascript:;'><span class='media-left media-icon'><span class='fa-stack fa-lg'><i class='fa fa-circle fa-stack-2x text-success'></i><i class='fa fa-money fa-stack-1x fa-inverse'></i></span></span>
-                      <div class='media-body'><span class='block'>Transaction xyz complete</span><span class='text-muted block'>2min ago</span></div></a></li>
-                  <li class='not-footer'><a href='#'>See all notifications.</a></li>
-                </ul>
-              </li>
+
               <!-- User Menu-->
               <li class='dropdown'><a class='dropdown-toggle' href='#' data-toggle='dropdown' role='button' aria-haspopup='true' aria-expanded='false'><i class='fa fa-user fa-lg'></i></a>
                 <ul class='dropdown-menu settings-menu'>
-                  <li><a href='page-user.html'><i class='fa fa-cog fa-lg'></i> Settings</a></li>
-                  <li><a href='page-user.html'><i class='fa fa-user fa-lg'></i> Profile</a></li>
+          
                   <li><a href='student_dashboard.php?logout'><i class='fa fa-sign-out fa-lg'></i> Logout</a></li>
                 </ul>
               </li>
@@ -178,8 +166,6 @@
             <ul class='sidebar-menu'>
             <li class='active'><a href='student_dashboard.php?dashboard'><i class='fa fa-dashboard'></i><span>Dashboard</span></a></li>
             <li><a href='student_dashboard.php?profile'><i class='fa fa-user'></i><span>Profile</span></a></li>
-            <li><a href='student_dashboard.php?subjects_to_offer'><i class='fa fa-book'></i><span>Subjects you are to offer</span></a></li>
-            <li><a href='student_dashboard.php?student_register_subject'><i class='fa fa-upload'></i><span>Register Subjects</span></a></li>
             <li><a href='student_dashboard.php?student_check_result'><i class='fa fa-eye'></i><span>Check Result</span></a></li>
             <li><a href='student_dashboard.php?student_print_slip'><i class='fa fa-print'></i><span>Print Slip</span></a></li>
             <li><a href='student_dashboard.php?view_class_members'><i class='fa fa-users'></i><span>My Class Members</span></a></li>
