@@ -124,19 +124,10 @@
                     <input type='text' placeholder='Type Phone Number' class='form-control' name='accountant_phone' />
                 </div>
                 <br />
-
                 <div class='input-group'>
                     <span class='input-group-addon' id='basic-addon2'>State:</span>
-                    <select class='form-control' name='accountant_state'>
-                        <option selected ><? echo $select; ?></option>
-                        <?php
-                            $state_array = array("Abia", "Adamawa", "Akwa ibom", "Anambra", "Bauchi", "Bayelsa", "Benue", "Borno", "Cross River", "Delta", "Ebonyi", "Edo", "Ekiti", "Enugu", "Gombe", "Imo", "Jigawa", "Kaduna", "Kano", "Katsina", "Kebbi", "Kogi", "Kwara", "Lagos", "Nasarawa", "Niger", "Ogun", "Ondo", "Osun", "Oyo", "Plateau", "Rivers", "Sokoto", "Taraba", "Yobe", "Zamfara", "FCT Abuja");
-
-                            foreach($state_array as $state){
-                                echo "<option>{$state}</option><br>";
-                            }
-                        ?>
-                    </select>
+		    <input type='text' placeholder='Type State' class='form-control' name='accountant_state' />
+  
                 </div>
                 <br />
 
@@ -148,11 +139,8 @@
 
                 <div class='input-group'>
                     <span class='input-group-addon' id='basic-addon2'>Nationality:</span>
-                    <select class='form-control' name='accountant_nationality'>
-                        <option selected ><?php echo $select; ?></option>
-                        <option>Nigerian</option>
-                        <option>Non-nigerian</option>
-                    </select>
+		    <input type='text' placeholder='Type Nationality' class='form-control' name='accountant_nationality' />
+                
                 </div>
                 <br />
 
