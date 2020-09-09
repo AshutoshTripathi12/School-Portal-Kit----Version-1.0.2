@@ -89,7 +89,7 @@
     <link rel="shortcut icon" href="../../img/ic.png">
     <!-- Font-icon css-->
     <link rel="stylesheet" href="../../assets/css/font-awesome-4.7.0/css/font-awesome.css">
-    <title><?php echo $accountant_name; ?> ~ School Portal Kit</title>
+    <title><?php echo $accountant_name; ?> Tara Sadan ERP </title>
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries-->
     <!--if lt IE 9
     script(src='https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js')
@@ -114,7 +114,7 @@
   <body class='sidebar-mini fixed'>
     <div class='wrapper'>
       <!-- Navbar-->
-      <header class='main-header hidden-print'><a class='logo' href='index.html'>School Portal Kit</a>
+      <header class='main-header hidden-print'><a class='logo' href='index.html'>Tara Sadan ERP</a>
         <nav class='navbar navbar-static-top'>
           <!-- Sidebar toggle button--><a class='sidebar-toggle' href='#' data-toggle='offcanvas'></a>
           <!-- Navbar Right Menu-->
