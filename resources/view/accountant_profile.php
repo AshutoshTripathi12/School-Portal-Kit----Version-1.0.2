@@ -21,7 +21,7 @@
                 <h5><a href="#">Sex: <?php echo $gender; ?></a></h5>
                 <h5><a href="#">Nationality: <?php echo $accountant_nationality; ?></a></h5>
                 <h5><a href="#">State: <?php echo $accountant_state; ?></a></h5>
-                <h5><a href="#">LGA: <?php echo $accountant_lga; ?></a></h5>
+                <h5><a href="#">City: <?php echo $accountant_lga; ?></a></h5>
                 <h5><a href="#">Term: <?php echo $current_term; ?></a></h5>
                 <h5><a href="#">Session: <?php echo $current_session; ?></a></h5>
                 <p class="text-muted"><small>Date Registered: <?php echo $date_registered; ?> </small></p>
